@@ -10,3 +10,6 @@ I highly recommend reading through SanjarDev's guide to using Aseprite with FNF 
 !! Currently only works on Python 3.8, running it on higher versions will not work. !!
 
 Download the repo as a .zip file and unzip it. Put the Python script and your .json file in the same folder, and run it through CMD. Input your .json filename (including the ".json"!) when prompted. The script should output a .xml file when finished.
+
+## Credits
+If you decide to use this script in your mod, please keep the third line in the xml. Credits in the actual mod itself are not at all required, but you can add them if you want.
